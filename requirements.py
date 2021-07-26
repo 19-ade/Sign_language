@@ -13,7 +13,7 @@ def install(package):
 
 install("pandas")
 install("opencv-python")
-install("tensorflow")
+install("tensorflow==2.5.0")
 install("numpy")
 install("matplotlib")
 
