@@ -1,7 +1,7 @@
 # Sign_language
 
 ## Description
-This is a project which detects the alphabets from the hand gestures based on American Sign Language. There are two models implemented here one trained on the **MNIST** dataset and the other trained on **ASL** dataset . Both the models are CNN architecture . All contributions are welcome .
+This is a project which produces the alphabets from the hand gestures based on American Sign Language from live video input.There are two models implemented here one trained on the **MNIST** dataset and the other trained on **ASL** dataset . Both the models are CNN architecture . All contributions are welcome .
 
 ## Setting up the environment 
 ### Datasets
