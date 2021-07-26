@@ -48,7 +48,7 @@ The CNN model was trained for 10 epochs . It is a much more computation-intensiv
 
 ## Output (Some Examples)
 
-Few things:
+### Few things:
 - make sure the background is relatively noise free
 - make sure to keep your hand at approximately 30 cm distance so that the entire palm fits into the red rectangle . 
 
