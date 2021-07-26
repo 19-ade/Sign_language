@@ -19,7 +19,7 @@ def selection_ASL(image):
     im = im.astype('float32') / 255.0
     y = model_ASL.prediction(im)
     y = np.argmax(y)
-    print(y)
+    #print(y)
     if y == 21:
         return 'space'
     elif y == 15:
