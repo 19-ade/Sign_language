@@ -46,15 +46,11 @@ The CNN model was trained for 10 epochs . It is a much more computation-intensiv
 - The red rectangle is a fixed ROI . Perhaps an algorithm can be implemented that can recognise the hand in the video , thus allowing flexibility. 
 - The dataset can be expanded to include numbers, or modified to read sentences
 
-## Output
+## Output (Some Examples)
 
-![Screenshot from 2021-07-26 23-00-49](https://user-images.githubusercontent.com/64825911/127033015-d7de06eb-52a0-4f41-91ea-8abffee17d8b.png)
+![Screenshot from 2021-07-26 23-00-49](https://user-images.githubusercontent.com/64825911/127033015-d7de06eb-52a0-4f41-91ea-8abffee17d8b.png)       ![Screenshot from 2021-07-26 23-01-10](https://user-images.githubusercontent.com/64825911/127033019-cdb4cdba-de5c-49a9-a2d1-b4d1a3d70915.png)
 
-![Screenshot from 2021-07-26 23-01-10](https://user-images.githubusercontent.com/64825911/127033019-cdb4cdba-de5c-49a9-a2d1-b4d1a3d70915.png)
-
-![Screenshot from 2021-07-26 23-01-25](https://user-images.githubusercontent.com/64825911/127033021-0676f187-d56f-4c8b-8fd4-2259cfafb9aa.png)
-
-![Screenshot from 2021-07-26 23-01-34](https://user-images.githubusercontent.com/64825911/127033023-809a6964-81eb-4b72-93ba-7655c246a662.png)
+![Screenshot from 2021-07-26 23-01-25](https://user-images.githubusercontent.com/64825911/127033021-0676f187-d56f-4c8b-8fd4-2259cfafb9aa.png)       ![Screenshot from 2021-07-26 23-01-34](https://user-images.githubusercontent.com/64825911/127033023-809a6964-81eb-4b72-93ba-7655c246a662.png)
 
 
 
