@@ -10,7 +10,7 @@ This is a project which detects the alphabets from the hand gestures based on Am
 ### Cloning the Repo
 `git clone https://github.com/19-ade/Sign_language.git`
 
-Once the repo has been cloned ,the folder with the checkpoints for the ASL Model needs to be downloaded and pasted in the same folder as the project. Due to github size limitation for uploading files I had o take this path . Don't change the name of the folder or the files within. Here's the [link](https://drive.google.com/drive/folders/1zajq-tT7PcV2q2AMXvIpewcXiK_xe4B_?usp=sharing).
+Once the repo has been cloned ,the folder with the checkpoints for the ASL Model needs to be downloaded and pasted in the same folder as the project. Due to github size limitation for uploading files I had to take this path . Don't change the name of the folder or the files within. Here's the [link](https://drive.google.com/drive/folders/1zajq-tT7PcV2q2AMXvIpewcXiK_xe4B_?usp=sharing).
 
 Run the Requirements.py script to install all the required libraries.
 
