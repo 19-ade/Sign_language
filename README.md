@@ -21,6 +21,11 @@ Run capture.py once everything has been configured and achieved
 `python capture.py`
 
 ## Model
+
+![Screenshot from 2021-07-27 21-02-06](https://user-images.githubusercontent.com/64825911/127183245-eb18ebf6-6fe7-4ef3-b6fb-b3475d69ce1b.png)
+
+  This is the input that the Model recieves 
+
 ### MNIST CNN
 The CNN model was trained for 15 epochs. The following plots show the variation of accuracy and loss of the validation and training split wrt epochs
 
