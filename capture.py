@@ -5,6 +5,7 @@ from models import Model, ASL_Model
 
 def selection(image):
     image_grayscale = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    #cv2.imshow('show', image_grayscale)
     im = np.reshape(cv2.resize(image_grayscale, (28, 28)), [-1, 28, 28, 1])
     x_mean = im.mean()
     x_std = im.std()
@@ -15,6 +16,7 @@ def selection(image):
 
 def selection_ASL(image):
     image_grayscale = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    #cv2.imshow('see', image_grayscale)
     im = np.reshape(cv2.resize(image_grayscale, (64, 64)), [-1, 64, 64, 1])
     im = im.astype('float32') / 255.0
     y = model_ASL.prediction(im)
